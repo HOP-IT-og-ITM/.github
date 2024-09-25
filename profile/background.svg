@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1920 1080">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #335096;
+      }
+
+      .cls-2 {
+        letter-spacing: .34em;
+      }
+
+      .cls-3 {
+        fill: #1a1a1a;
+        filter: url(#outer-glow-1);
+      }
+
+      .cls-4 {
+        letter-spacing: .4em;
+      }
+
+      .cls-5 {
+        letter-spacing: .68em;
+      }
+
+      .cls-6 {
+        letter-spacing: .5em;
+      }
+
+      .cls-7 {
+        fill: #334f94;
+      }
+
+      .cls-8 {
+        letter-spacing: .28em;
+      }
+
+      .cls-9 {
+        font-family: SegoeUIVariable, 'Segoe UI Variable';
+        font-size: 105.77px;
+        font-variation-settings: 'wght' 400, 'opsz' 10;
+        letter-spacing: -.01em;
+      }
+
+      .cls-9, .cls-10 {
+        fill: #504a52;
+      }
+
+      .cls-11, .cls-12 {
+        fill: #333;
+      }
+
+      .cls-12 {
+        font-family: Ruda-Black, Ruda;
+        font-size: 114.23px;
+        font-variation-settings: 'wght' 900;
+        font-weight: 800;
+      }
+
+      .cls-13 {
+        fill: #c7b299;
+      }
+
+      .cls-14 {
+        letter-spacing: .48em;
+      }
+
+      .cls-15 {
+        letter-spacing: .3em;
+      }
+
+      .cls-16 {
+        letter-spacing: .35em;
+      }
+    </style>
+    <filter id="outer-glow-1" x="378" y="44" width="1388" height="992" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="0"/>
+      <feGaussianBlur result="blur" stdDeviation="31"/>
+      <feFlood flood-color="#36f" flood-opacity=".5"/>
+      <feComposite in2="blur" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <rect class="cls-11" x="224" y="-117" width="1696" height="1316"/>
+  <rect class="cls-3" x="471.5" y="137.5" width="1201" height="805"/>
+  <rect class="cls-13" x="-54.5" y="-56.5" width="278" height="1221"/>
+  <text class="cls-12" transform="translate(70.77 138.99)"><tspan class="cls-15" x="0" y="0">U</tspan><tspan class="cls-14" x="10.62" y="114.23">T</tspan><tspan class="cls-4" x="5.88" y="228.46">V</tspan><tspan class="cls-5" x="21.59" y="342.69">I</tspan><tspan class="cls-2" x="2.17" y="456.91">K</tspan><tspan class="cls-6" x="11.31" y="571.14">L</tspan><tspan class="cls-5" x="21.59" y="685.37">I</tspan><tspan class="cls-8" x="-.8" y="799.6">N</tspan><tspan class="cls-16" x="2.74" y="913.83">G</tspan></text>
+  <g>
+    <polygon class="cls-7" points="913.29 343.65 913.29 611.34 872.37 611.34 872.37 485.88 667.65 485.88 667.65 611.34 626.73 611.34 626.73 343.65 667.65 343.65 667.65 458.62 872.37 458.62 872.37 343.65 913.29 343.65"/>
+    <path class="cls-7" d="M1496.21,360.17c-21.97-19.85-35.96-15.95-242.71-16.52v271.59h39.14v-107.48c169.56-.08,183.07,2.12,203.57-16.44,3.5-3.09,23.11-20.34,21.72-65.58,1.38-45.24-18.23-62.49-21.72-65.58ZM1467.73,470.82c-15.54,13.67-29.29,10.58-175.1,10.98v-113.18c145.81.41,159.56-1.95,175.1,11.72,2.44,2.12,12.37,13.67,11.39,44.83.98,31.24-8.95,43.45-11.39,45.65Z"/>
+    <g>
+      <g>
+        <path class="cls-1" d="M1081.32,337.35c-84.07,0-152.23,64.51-152.23,144.09s68.16,144.09,152.23,144.09,152.23-64.51,152.23-144.09-68.16-144.09-152.23-144.09ZM1081.97,584.86c-59.72,0-108.14-46.86-108.14-104.66s48.41-104.66,108.14-104.66,108.14,46.86,108.14,104.66-48.41,104.66-108.14,104.66Z"/>
+        <path class="cls-10" d="M1082.3,384.6c-54.9,0-99.41,43.13-99.41,96.33s44.51,96.32,99.41,96.32,99.41-43.13,99.41-96.32-44.51-96.33-99.41-96.33ZM1082.5,548.77c-38.7,0-70.08-30.49-70.08-68.11s31.37-68.11,70.08-68.11,70.08,30.49,70.08,68.11-31.38,68.11-70.08,68.11Z"/>
+      </g>
+      <text class="cls-9" transform="translate(626 710.57)"><tspan x="0" y="0">videregående skole</tspan></text>
+    </g>
+  </g>
+</svg>
